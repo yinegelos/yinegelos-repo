@@ -2,15 +2,16 @@ Origin: YinegelOS
 Label: YinegelOS Official Repository
 Suite: bookworm
 Codename: bookworm
+Date: Sun, 12 Jul 2026 20:16:50 +0000
 Architectures: amd64 i386 all
 Components: main
 Description: Dostunuz YinegelOS sizin işinizi kolaylaştırır.
-MD5Sum:
- e4c8504a9c458d7b862be862938e78de             2126 Packages
- 495e655307a74717fb594c5e47717a68             1039 Packages.gz
- 4376ad4e8fe25e949c43e5b2a767cc9969cb2af4             2126 Packages
- f125ff3a72d5054554eaee973e391cb8a6737d8a             1039 Packages.gz
- 677f8c106c441cc067666c478ba74005dc0c7c1dff8266ccae50bd866f594e22             2126 Packages
- d2a6b8db4da485b4cf1cef098e28344bc56776baba828f7ff18609e88203a78e             1039 Packages.gz
- a67730752aad42174bb3a8acfb0bd1c2cc8ed6a669d074c1439ece1c411623b20c7cb60eea4ec864a7108633198ef5ef3140cf7060b96fc67362f3aed35e76a5             2126 Packages
- 2085cbc7d76e50fe9ec285bf3c6cc5e84381537b9e6b235d171eea2bc8f962c753b9c5d93aed382ae154becca4422e66dc73a088a8850f49584536433930c5b4             1039 Packages.gz
+SHA256:
+ e4c8504a9c458d7b862be862938e78de 2126 Packages
+ 495e655307a74717fb594c5e47717a68 1039 Packages.gz
+ 4376ad4e8fe25e949c43e5b2a767cc9969cb2af4 2126 Packages
+ f125ff3a72d5054554eaee973e391cb8a6737d8a 1039 Packages.gz
+ 677f8c106c441cc067666c478ba74005dc0c7c1dff8266ccae50bd866f594e22 2126 Packages
+ d2a6b8db4da485b4cf1cef098e28344bc56776baba828f7ff18609e88203a78e 1039 Packages.gz
+ a67730752aad42174bb3a8acfb0bd1c2cc8ed6a669d074c1439ece1c411623b20c7cb60eea4ec864a7108633198ef5ef3140cf7060b96fc67362f3aed35e76a5 2126 Packages
+ 2085cbc7d76e50fe9ec285bf3c6cc5e84381537b9e6b235d171eea2bc8f962c753b9c5d93aed382ae154becca4422e66dc73a088a8850f49584536433930c5b4 1039 Packages.gz

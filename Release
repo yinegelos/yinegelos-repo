@@ -1,25 +1,17 @@
-Origin: YinegelOS
-Label: YinegelOS Official Repository
-Suite: bookworm
-Codename: bookworm
-Date: Sun, 12 Jul 2026 20:19:14 +0000
-Architectures: amd64 i386 all
-Components: main
-Description: Dostunuz YinegelOS sizin işinizi kolaylaştırır.
-Date: Sun, 12 Jul 2026 20:19:14 +0000
+Date: Mon, 13 Jul 2026 12:20:00 +0000
 MD5Sum:
- e4c8504a9c458d7b862be862938e78de             2126 Packages
- 38ded26254bf612d7cf11c2da1be7e6a             1039 Packages.gz
- c8364b9ee4aa31476bf5610c53bf7505              278 Release
+ 182f2f8852ccb37414c99baae6b7b6ad            11909 Packages
+ aebc496a5ff4bccf6cf27e1777c384a4             4243 Packages.gz
+ adcc7a77ea8d325a167c95be11d7cffe               38 Release
 SHA1:
- 4376ad4e8fe25e949c43e5b2a767cc9969cb2af4             2126 Packages
- 7ee155fef7f2bcb882e7f0d3676df443dc92d833             1039 Packages.gz
- 8bb5ad35332895f261481722315df58edefc6403              278 Release
+ 4b9932d4f0297f06df4fd68cca10ea5f38e9cb00            11909 Packages
+ 813080fbd33257581691d8f2ddd2cadd52a90d3a             4243 Packages.gz
+ 8f61ac6971d6bec00672707dcaaf3967814cfc86               38 Release
 SHA256:
- 677f8c106c441cc067666c478ba74005dc0c7c1dff8266ccae50bd866f594e22             2126 Packages
- 74ebf082a9d7299337197fe393c11f86ebec0470d5bf0ea6c1fe0e1e923bf949             1039 Packages.gz
- dd24c6529c3ec4bc957c4c206591ce0b15dcfe2efebda364284f0a1af044d9e2              278 Release
+ 17f3d135320e70e13585ede8b88f8cab1a29726dd23be29c4a7d703df7eb46d5            11909 Packages
+ e76a2848b83f77d0e6c48412ffc4a5efefdba2a73c671bec4eaac5a8e34967a3             4243 Packages.gz
+ 70e465c87722f07205921d1e57ea04f1b7982e3461513df9701ce62fc062ea2a               38 Release
 SHA512:
- a67730752aad42174bb3a8acfb0bd1c2cc8ed6a669d074c1439ece1c411623b20c7cb60eea4ec864a7108633198ef5ef3140cf7060b96fc67362f3aed35e76a5             2126 Packages
- 91d28f9d373febfb18d347f84c33a51560e1fcb4621e9927269112ec1718ab1cdb96c963b7b791037219f71f7b2c01e64210782068626d236c3b56a2f4c3071f             1039 Packages.gz
- 12e490205316b877668c5e975535793b2f7241620d941061c9f300e3fadb40977fc9fd4500700cd79f04599e369b3383a1ba4fccda57ec118c6614e9d5f9f2a5              278 Release
+ bfb07c39f8ffb27ea21e75d8dd9ae1720cbda2031b26d7732c327b5ea31040165ba4645ab61c08676e07e3580c2229296e451e976b30600a6d30108152ba4e77            11909 Packages
+ ae5af1b4cf99ce2bca615e54f27b6165467aa16bd65901d4e28fcc53b418d22083c35850e4f1381c026ed1904e7d81c40160c27d7a0ba591ac879f1762d7d169             4243 Packages.gz
+ 73def7b3caec0e43f877adc0cf2ae1d0826af53205e32cabb2bfafed789c46493049da0b7729ad4c89a1e8c665cdcdc0f97a284820b495ef2e5b0429b3eedf64               38 Release

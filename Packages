@@ -1,233 +1,230 @@
 Package: mint-artwork
-Architecture: all
 Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
+Architecture: all
 Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
 Filename: pool/main/mint-artwork.deb
 Size: 590
 MD5sum: 93702d618b465e1ecf354e7603c7abfd
 SHA1: 7e7398f6ccaf7727c1e770eacc82467d55b84d66
 SHA256: 95499f67a2fa1bb11a5b33095c956b14c72517aae02f179d6e151957c17170ab
-SHA512: dadc8ccbcd9bdd3c10c422ab167318c88095a08524bbf2728edc8b5c7ae70158d65431bb93c941c6cb2d68281f21c3eb7301f413edd492383631a4e459d692a5
+Section: misc
+Priority: optional
 Description: YinegelOS sahte paket sistemi.
  Dostunuz YinegelOS sizin işinizi kolaylaştırır.
 
-Package: mint-background-wallpapers
-Architecture: all
+Package: mint-common
 Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
-Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
-Filename: pool/main/mint-background-wallpapers.deb
-Size: 600
-MD5sum: f4336b0a92915ad77df411815f111963
-SHA1: 73b4eba0e7c7259bde5e5f6c1ed716c2e0dbad95
-SHA256: 3e3edc52116c2e86487973dd0ed9d913c64782921ace0c1a040088a759242752
-SHA512: 7ec2b75fabac0dc78b60f3ef8aaa24e462ff66b207a96b351ec99e932e957e6a9140e73f26fafaccc07f4c49f8a65a49c463da220943ee5ad23e5e444fd69ef6
-Description: YinegelOS sahte paket sistemi.
- Dostunuz YinegelOS sizin işinizi kolaylaştırır.
-
-Package: mint-backgrounds-wallpapers
 Architecture: all
-Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
 Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
-Filename: pool/main/mint-backgrounds-wallpapers.deb
-Size: 598
-MD5sum: fae36d471b3f5b6b294cdbbdc75abf28
-SHA1: 7ff8be45fc360c409726d6c05c2efd768226db8d
-SHA256: 090a6d5894e5dd468aae538bedd9098781759db5c585fbdb3944c65ba656d5ff
-SHA512: 8262050e45c44a54efd27bc15953c090cb827f2a53ffda815ec48e8b824ee2721b1596c4a85806050d70188ba60c0e57e848c9f4c458c34a2d4f43e2615402bc
-Description: YinegelOS sahte paket sistemi.
- Dostunuz YinegelOS sizin işinizi kolaylaştırır.
-
-Package: mint-backup
-Architecture: all
-Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
-Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
-Filename: pool/main/mint-backup.deb
-Size: 586
-MD5sum: 5805acac8271bdf47155e83f7e148f7d
-SHA1: 6bd02356a62c1df7b5af296fb36db3a8746a9c19
-SHA256: 93187c9b5bec3ce4d37bba839fed8353a83e6c14c7759c69471bebb02be58f71
-SHA512: d803999680aaffe43ff0980861c1f003466e1f01f00bc4233334e85a27da68111b3e6db3cf9ba988730b1f4abebcb5ae122668b7f29ffe813a1ad87d9eee1a7b
-Description: YinegelOS sahte paket sistemi.
- Dostunuz YinegelOS sizin işinizi kolaylaştırır.
-
-Package: mint-chat
-Architecture: all
-Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
-Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
-Filename: pool/main/mint-chat.deb
+Filename: pool/main/mint-common.deb
 Size: 584
-MD5sum: cb36fff5be13a7a0842d6699ba87606a
-SHA1: f57c566eb046826bfe1ccc2b517f3f6d8c615a37
-SHA256: bff1dcf62acc7990f2dd01527ff2ef5fac0dfe4e8504f305cd3dd53da596ae49
-SHA512: 20f1afaaa73b3d2d5da7eb2cbaeb05874721ec17375902282a07756cd900ae3839b880d0b8884515f65b3d484ca1df4dc012c9edc11ce0901259285dca01aeb2
+MD5sum: 8d0e92d7a24904d62c77b3fd1a8687ed
+SHA1: 4bed77e071ea2fc48a7a870fbe1aebee8d7bad11
+SHA256: de8118f417177f2f3e5a3be169d6e175ae0c4869a8b2206304445c2283ec8c57
+Section: misc
+Priority: optional
 Description: YinegelOS sahte paket sistemi.
  Dostunuz YinegelOS sizin işinizi kolaylaştırır.
 
 Package: mint-cursor-themes
-Architecture: all
 Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
+Architecture: all
 Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
 Filename: pool/main/mint-cursor-themes.deb
 Size: 590
 MD5sum: 44ef1c5226a52acdea332b0197fcc2b6
 SHA1: 84fb454f7ff403bf2e20178a0bc70f9499063c8a
 SHA256: 6c8407921b8480657735d550000a38c3c5fc1d33a1b9fd199d96030ca9aef297
-SHA512: dc8db25dde2f32cdca3c739b0cd228ecbf87e03990c12fcb383c85579edefe621895d4fcd74e3b118b4d9c612fa4d8ac70bd536ad2c908e438b1282b3f5df38f
+Section: misc
+Priority: optional
 Description: YinegelOS sahte paket sistemi.
  Dostunuz YinegelOS sizin işinizi kolaylaştırır.
 
-Package: mint-info-cinnamon
-Architecture: all
+Package: mint-info-xfce
 Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
+Architecture: all
 Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
-Filename: pool/main/mint-info-cinnamon.deb
+Filename: pool/main/mint-info-xfce.deb
 Size: 590
-MD5sum: c564a9d047e7ff59e1df7c32e5776300
-SHA1: f2b0cc2f21c0c59ccac3eb5771b39666c8925098
-SHA256: 829274b964b648966673e06e1a2870fcbd019cd0ed2842aa9f71706a74deb419
-SHA512: 38cbbd70aa5d8edeb36bfd62ecc68167c6f3d78bf1f3dce56c45813d226b9dbdd04d4fae2dc3bfc31f4d8d3e8e8f2cd794f742379e44d46b55f8ed9271528d38
+MD5sum: 22b6d07515c66771b320cfec6d21ee5d
+SHA1: af7583fbf84a0169c3ee7ee7e5ade3ab8f9b1ca2
+SHA256: 3499bf1bd3c0b9fbf4e1bfb710e01f6f2ed5bdc103bdd8367bb15a3c4c6055ea
+Section: misc
+Priority: optional
 Description: YinegelOS sahte paket sistemi.
  Dostunuz YinegelOS sizin işinizi kolaylaştırır.
 
-Package: mint-l-icons
-Architecture: all
+Package: mint-live-session
 Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
-Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
-Filename: pool/main/mint-l-icons.deb
-Size: 586
-MD5sum: 7bb1e6b87e6776d1f72bd29dc922495b
-SHA1: 9da593dd5765ee662b3ee8795c266909f6e3ca5b
-SHA256: 9c3a31a355917570c2bb55084d45df79b20bafc9d29a8e82f591fc93866acfec
-SHA512: 25d6cff7a39e851ac45359a265c6e197d844914e5b389783da1d06d66477169851efccd320b171942704ef45a3897a83ec46670ff5101b674cf2c1c75b3dbd28
-Description: YinegelOS sahte paket sistemi.
- Dostunuz YinegelOS sizin işinizi kolaylaştırır.
-
-Package: mint-l-theme
 Architecture: all
-Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
 Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
-Filename: pool/main/mint-l-theme.deb
-Size: 586
-MD5sum: 10ac5ee8a023c4f19cf1abe8f6960085
-SHA1: dd717291d8abc6f7632ef06b1cf4c9de652f8b47
-SHA256: 45f3ef116a75ed643ae63f34fb654c1c4cfbd2b405d3aa67c593516a2582fe90
-SHA512: 5463bd5f46872abb569a10ec36896eccf32cfe5a75c45d3578115681f0949ac4a856120e5e439a440bf32622578322da26d3ce69822ccd78a75b3e341656c1bd
-Description: YinegelOS sahte paket sistemi.
- Dostunuz YinegelOS sizin işinizi kolaylaştırır.
-
-Package: mint-report
-Architecture: all
-Version: 9.9.9-yinegelos
-Priority: optional
+Filename: pool/main/mint-live-session.deb
+Size: 592
+MD5sum: bb58215942083714646f241c1fd77992
+SHA1: ab6322ded0baaaee9788efbf1248745a2a59be5d
+SHA256: 72916c4bfda107b271e1ac56ad17477235d77c8c97eaffbb03b2874b79d98895
 Section: misc
-Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
-Filename: pool/main/mint-report.deb
-Size: 584
-MD5sum: 4e53922840706aa1ae3c5320170905f0
-SHA1: cb9b4407da36dcbab2cc690ba683c9d3528aabf2
-SHA256: 0333a6ae6d2b1a9ff88ab993c16e9b145a523580a50b774f8c26b4d195acb15c
-SHA512: 2c539a137f968934809f62d49533255283119cdedf0c52bd44f8f19a24482e7664e986191e8f7863ed31bd2e52dc08cf6b4f0d179dd700af0d7e2bd6494745e8
+Priority: optional
 Description: YinegelOS sahte paket sistemi.
  Dostunuz YinegelOS sizin işinizi kolaylaştırır.
 
 Package: mint-themes
-Architecture: all
 Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
+Architecture: all
 Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
 Filename: pool/main/mint-themes.deb
 Size: 584
 MD5sum: 924b74f846d5a9f7df532407c62905ff
 SHA1: a374a0eab1bd39be14d9f28a310d5f5b47cebdc7
 SHA256: 8ce76c754662177d189a15edfd8efb8b5ce1be0de6525f2f44a46afaf3f6baf7
-SHA512: 4d746e26b5d5863b14cca7cd95237e0821ebae0a221a757d6434bfe86692732e2fc0b92f6ba362fdcd6d517f9d8ce1b268ec9217541c0f0ac348171465850457
+Section: misc
+Priority: optional
 Description: YinegelOS sahte paket sistemi.
  Dostunuz YinegelOS sizin işinizi kolaylaştırır.
 
-Package: mint-upgrade
-Architecture: all
+Package: mint-upgrade-info
 Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
-Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
-Filename: pool/main/mint-upgrade.deb
-Size: 588
-MD5sum: e6d820824f13867ef61c213ada85ec0c
-SHA1: f950c3e7f84f4dfd5af9e7717e4df4762752c2ad
-SHA256: 6f3178996e36d9a9ddb675d3b27cf585cbda1025307cade85e892cea8d854518
-SHA512: 603f451945dbb7b1e0d97c4b9ba53db5017c88894d5e20dbae76b304099d013f5cecea4144c48341a0de72946147edabd3ac8b95a95689c79bda891de2b84f31
-Description: YinegelOS sahte paket sistemi.
- Dostunuz YinegelOS sizin işinizi kolaylaştırır.
-
-Package: mint-welcome
 Architecture: all
-Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
 Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
-Filename: pool/main/mint-welcome.deb
-Size: 588
-MD5sum: caa50112a78d76a498ef512e30b4cb65
-SHA1: 573b2013b024122d2451630a575a0480547e021e
-SHA256: 86208b0596411610b43dc681a346f7b80b426d5d600f8662a444d22ac0db1927
-SHA512: 83ab247a3f0df6f05fe0dc90f254993ce027ecd00ac613074ae2bed27646e3062065b6fb0f4fdd18042719c829885bde63bafc6426cc25967030f607f0edfa1d
+Filename: pool/main/mint-upgrade-info.deb
+Size: 592
+MD5sum: 22ce3ab7de1e23389234444ea4702ea5
+SHA1: 78abfb8327b2d9fb0bb2733d560ac2acab6563a3
+SHA256: c0db81a652584232491c33c28083ca94686d02fcdb80dcddb0eed5670c8d5922
+Section: misc
+Priority: optional
 Description: YinegelOS sahte paket sistemi.
  Dostunuz YinegelOS sizin işinizi kolaylaştırır.
 
 Package: mint-x-icons
-Architecture: all
 Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
+Architecture: all
 Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
 Filename: pool/main/mint-x-icons.deb
 Size: 586
 MD5sum: b6aaf800e603616f77ea8944aa82e4d8
 SHA1: f6e75d7b4c19f462b0bda420dc4140b259ed0acf
 SHA256: eb4b618d9238361c3453b0054e8e4613ad3733563c5b2e9b8a89d669f5fa7e04
-SHA512: e0fc48983024e550ea93f3c7d71deffb406b5c7a8c787c35091a52b046b3dd8527b9556229e344cb6f7bcaf08ac3591f52caa6fe6a95ac25d01282e0b6c63bc3
+Section: misc
+Priority: optional
 Description: YinegelOS sahte paket sistemi.
  Dostunuz YinegelOS sizin işinizi kolaylaştırır.
 
 Package: mint-y-icons
-Architecture: all
 Version: 9.9.9-yinegelos
-Priority: optional
-Section: misc
+Architecture: all
 Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
 Filename: pool/main/mint-y-icons.deb
 Size: 586
 MD5sum: 6e60348a1636eeceac0897687e45f7c7
 SHA1: ffb5e5ae3555f16e446da229b5338079c4a084d3
 SHA256: f4624988a8acd18aabb5e240d18f31635673ac3abf8fd279922a724788a926b9
-SHA512: 221cc028d9df7f6b38cec48d73ac021d6065289f10d2254a98f359e24c1b466dc14a0538803786e1aff112ac2df148894f108dacf56b397005bec89fba4bad84
+Section: misc
+Priority: optional
+Description: YinegelOS sahte paket sistemi.
+ Dostunuz YinegelOS sizin işinizi kolaylaştırır.
+
+Package: mintbackup
+Version: 9.9.9-yinegelos
+Architecture: all
+Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
+Filename: pool/main/mintbackup.deb
+Size: 586
+MD5sum: 3501512c338baae9af276bfab4bba479
+SHA1: 74e5f88f36b2323573f440eec75919df6f2e3bfa
+SHA256: b0f33ff1ecd45e57d442764b813922681dece19d2629dffc7ec50914be65f405
+Section: misc
+Priority: optional
+Description: YinegelOS sahte paket sistemi.
+ Dostunuz YinegelOS sizin işinizi kolaylaştırır.
+
+Package: mintinstall
+Version: 9.9.9-yinegelos
+Architecture: all
+Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
+Filename: pool/main/mintinstall.deb
+Size: 584
+MD5sum: 6028b771e2d121c9ca5c8b613c3411c9
+SHA1: ca73ed79fe8eba854c80d5683efe6383faee5339
+SHA256: 130aadb2de70296626e2bef46c1bfec4e61995c0c60c64ab070fc2f9df189b43
+Section: misc
+Priority: optional
+Description: YinegelOS sahte paket sistemi.
+ Dostunuz YinegelOS sizin işinizi kolaylaştırır.
+
+Package: mintreport
+Version: 9.9.9-yinegelos
+Architecture: all
+Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
+Filename: pool/main/mintreport.deb
+Size: 586
+MD5sum: 22c0df36b14d445f834fb8b9e790083c
+SHA1: 845068a6687f05177f365d3e71c590a3cb5a1f93
+SHA256: b4e4048394700c7973668f7c68464e012e32851d8e219195366652875ded2d5b
+Section: misc
+Priority: optional
+Description: YinegelOS sahte paket sistemi.
+ Dostunuz YinegelOS sizin işinizi kolaylaştırır.
+
+Package: mintsystem
+Version: 9.9.9-yinegelos
+Architecture: all
+Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
+Filename: pool/main/mintsystem.deb
+Size: 584
+MD5sum: 66c5f02ba649d0b1d19f4b187ddf8f23
+SHA1: 8b29b312151ec8c0b1b644b0b8510263845fd78a
+SHA256: 708f7e28731ccf66e5f7b8c92fa6626d8b57dd83a5a6b5918f73196d79b1c000
+Section: misc
+Priority: optional
+Description: YinegelOS sahte paket sistemi.
+ Dostunuz YinegelOS sizin işinizi kolaylaştırır.
+
+Package: mintupdate
+Version: 9.9.9-yinegelos
+Architecture: all
+Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
+Filename: pool/main/mintupdate.deb
+Size: 586
+MD5sum: da78e740cac17d0653859d2b68d773cb
+SHA1: e1ecca3f5c81baf56d4c299771092e1c1cd15f3d
+SHA256: 407cc4eec917ad78d527bfa036045e6286e33620a8e2a27a9217e3eecd38539b
+Section: misc
+Priority: optional
+Description: YinegelOS sahte paket sistemi.
+ Dostunuz YinegelOS sizin işinizi kolaylaştırır.
+
+Package: mintupgrade
+Version: 9.9.9-yinegelos
+Architecture: all
+Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
+Filename: pool/main/mintupgrade.deb
+Size: 584
+MD5sum: 2028f12655e3a5abf2e7d317e200d299
+SHA1: 8c9826eb84bceaa9ad7e5f983a6a5bc060b981db
+SHA256: 2d9fe1a6df5f18312bd0985cfdb1a3a1af5d256e86091539880ffcbc6f3848b6
+Section: misc
+Priority: optional
+Description: YinegelOS sahte paket sistemi.
+ Dostunuz YinegelOS sizin işinizi kolaylaştırır.
+
+Package: mintwelcome
+Version: 9.9.9-yinegelos
+Architecture: all
+Maintainer: Abdullah Yigit KARAKUS <abdullahyigitkarakus07@gmail.com>
+Filename: pool/main/mintwelcome.deb
+Size: 586
+MD5sum: 91ff9e7aa30b897d412fc38af1205c89
+SHA1: 45bd566da6a3600b51c4de2a1bd563da2a29f09d
+SHA256: 128a7e8210d45d32200a74d16dcdaf3940835393c71e5551b00ac4c16e004956
+Section: misc
+Priority: optional
 Description: YinegelOS sahte paket sistemi.
  Dostunuz YinegelOS sizin işinizi kolaylaştırır.
 
 Package: pardus-mycomputer
-Architecture: all
 Version: 0.8.0
-Priority: optional
-Section: utils
+Architecture: all
 Maintainer: Pardus Dev <dev@pardus.org.tr>
 Installed-Size: 412
 Depends: python3-gi, python3:any, python3 (>= 3.5), gir1.2-glib-2.0, gir1.2-gtk-3.0, gir1.2-notify-0.7, gir1.2-pango-1.0
@@ -237,27 +234,27 @@ Size: 48818
 MD5sum: c857474a421968c1ace8f3615e8fb24d
 SHA1: 2e82db53d0258ff16bd2a428a9f70f3117dac296
 SHA256: 79ee495d0de437fa1ae68d1b5faa5906a3dea0b455b45f5a57fbb7c27f4bf6d8
-SHA512: 9b6b03a089f551f530c70396d53accf05df7f64e9cf0855c519a07d92435c294ae82759a7398846dac4a6fc4f919b18f49a40958b84ffac0b04ab7d4b0f64a9a
+Section: utils
+Priority: optional
 Homepage: https://github.com/pardus/pardus-mycomputer
 Description: My Computer, shows general information about your computer.
  My Computer, shows general information about your computer.
 
 Package: yinegelos-basic-calc
-Architecture: amd64
 Version: 1.0
+Architecture: amd64
 Maintainer: Abdullah Yigit Karakus <abdullahyigitkarakus07@gmail.com>
 Filename: pool/main/yinegelos-basic-calc_1.0_amd64.deb
 Size: 12933644
 MD5sum: c8d62b56abcbc77fe682534025d239ee
 SHA1: 6bff27c47362dddbd025e852a66f18d060a76580
 SHA256: 97db5a803081eded8d8488b4e6baf3e94c74b60616c8c614cf2f40214353cc3b
-SHA512: ddc24f970d38a5edabfc9e88a36c1c240d1abb308a9132383f794525439b7d49fd11ca3ae0b25533836f3d590faa2ed647ce5636da4bb7a701857aca0e728159
 Description: YinegelOS Basit Hesap Makinesi
  YinegelOS ile basit hesaplamalarınızı kolayca yapın.
 
 Package: yinegelos-cleaner
-Architecture: amd64
 Version: 1.0
+Architecture: amd64
 Maintainer: Abdullah Yigit Karakus <abdullahyigitkarakus07@gmail.com>
 Depends: policykit-1
 Filename: pool/main/yinegelos-cleaner_1.0_amd64.deb
@@ -265,20 +262,18 @@ Size: 13020162
 MD5sum: 9e3756089c371db3cedbb34d7087199c
 SHA1: c9b5e5072cbe411a55a981f65c08fa210cf8a3b6
 SHA256: 99e9ced28bd3a79d3a7a66cc29b2f997fc0ccb106f755834928cc3ecf254dcbd
-SHA512: ec01b2a29457869ccbc87128c00adfe5caf2a7f49c82431aea434f85255a80f1685e3aa5875684a9359411e21896d7b7209b3ab4990e53c31779491c1d808258
 Description: YinegelOS Temizleyici
  YinegelOS kurulu sisteminizdeki artık ve çöp dosyaları temizleyin, performansı artırın.
 
 Package: yinegelos-info
-Architecture: amd64
 Version: 1.0
+Architecture: amd64
 Maintainer: Abdullah Yigit Karakus <abdullahyigitkarakus07@gmail.com>
 Filename: pool/main/yinegelos-info_1.0_amd64.deb
 Size: 12956112
 MD5sum: 3099da94c35f9982689ab46cd518a9c2
 SHA1: 3831e85dfc28e0ada53dd6478040419f3d90c65b
 SHA256: 882604f1f878e6c1d935687abfdf8fef7ab0197dca56253d7003201982013785
-SHA512: 2cc44ff5838f1267a5622c4fe7e9bcf0028efd69944e861ab680264aa3c4e8bfcaaaaaa0b79c2520e81e0584e366f87465a9f9f710f008ec71011e3334980f81
 Description: YinegelOS Bilgisi
  YinegelOS hakkında bilgi alın.
 

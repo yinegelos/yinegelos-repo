@@ -1,19 +1,19 @@
-Date: Mon, 13 Jul 2026 13:03:13 +0000
+Date: Mon, 13 Jul 2026 13:10:22 +0000
 Label: YinegelOS Official Repository
 Origin: YinegelOS
 MD5Sum:
  7168ff5f4eb976722fd9e68f2de8bc5b             9720 Packages
  aebc496a5ff4bccf6cf27e1777c384a4             4243 Packages.gz
- bfd8af8335406cb85326c24de5bb8fad               93 Release
+ 8e41f0a4c701f4574dd290511ebcfead               93 Release
 SHA1:
  93dc33a80418e2786118ee08b1f01a24ee732fb7             9720 Packages
  813080fbd33257581691d8f2ddd2cadd52a90d3a             4243 Packages.gz
- a7f2a814cf078f27bc7138ff27abf23b7fa37a0b               93 Release
+ b2a7e86b2939aaae4b05cf05cd5ce82ecdd2457f               93 Release
 SHA256:
  33f7a1374741db14ac1807bd3bd42ccc9ff0e2e48ed3bb5ab6703b1127e74891             9720 Packages
  e76a2848b83f77d0e6c48412ffc4a5efefdba2a73c671bec4eaac5a8e34967a3             4243 Packages.gz
- 861cc1f81d688e0f2d770a92fcd34e42336981c6c976d9c19731293bd5824e21               93 Release
+ 04b6301ac577bacac1900dd22ff611f56a62027b6256d5accdccac5fe5d66bad               93 Release
 SHA512:
  310fb13dcb7b3c571747d071609b3c9822624dc9428c2523a2da5ff10ac9faad9e7a413c048e05ae2972637e3e4b1f4e51da99ac25e53c4ae57db1a12c6c2694             9720 Packages
  ae5af1b4cf99ce2bca615e54f27b6165467aa16bd65901d4e28fcc53b418d22083c35850e4f1381c026ed1904e7d81c40160c27d7a0ba591ac879f1762d7d169             4243 Packages.gz
- 53cccc8389d452aac2bb7caabe7fc86b8494d50d1529720024897da38541aff96f0418cf3749043cc9b45ea418ffe3a107b3f767852ce9f3b75b30eef3529853               93 Release
+ 4e0d89cc927639fcc9df498c77cd78bd965095f042c5f067b27e1533f67047a281e3b666d22be5aba99d058084322e669f50ea65d29a2e6a823b929562960e1b               93 Release

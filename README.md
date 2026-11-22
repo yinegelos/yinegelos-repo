@@ -6,4 +6,4 @@ sudo apt update
 sudo apt install yinegelos-info yinegelos-cleaner yinegelos-basic-calc
 ```
 
-Güncellemek için: `pool/main/` içine yeni .deb ekle, `./update-repo.sh` çalıştır, commit & push.
+Yeni deb eklemek için: `pool/main/` içine yeni .deb ekle, `./update-repo.sh` çalıştır, commit & push.

@@ -1,0 +1,20 @@
+Origin: YinegelOS
+Label: YinegelOS
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: YinegelOS APT deposu
+Date: Sun, 22 Nov 2026 06:48:22 +0000
+MD5Sum:
+ 355a0d5be748521fa54ff0478ad21ec0             7560 main/binary-amd64/Packages
+ 95cd1f76e540a2cf30c9c2098917279a             2296 main/binary-amd64/Packages.gz
+ 952eeca845db4fd12cf70ad8a091a958             2224 main/binary-amd64/Packages.xz
+SHA1:
+ fcb9c50aaa4615028ef118307c0ccb58426dd83d             7560 main/binary-amd64/Packages
+ 5a7d6fe312875f906cbc2c5510414b5931baf035             2296 main/binary-amd64/Packages.gz
+ 5b2c3e32df19e596f2cb3b0449e40c6813822ce6             2224 main/binary-amd64/Packages.xz
+SHA256:
+ cffc3c39299c5433ac5b2896c3f023b45f473cc6ded003b88fb0a4d4d2b66836             7560 main/binary-amd64/Packages
+ 5c654408aa55c1b79081e8c6c0f373c9b833febd4f3427ba778adabf443f1618             2296 main/binary-amd64/Packages.gz
+ 6f4ce251901bff6ccedfc5712e7ba3107b012ea23c3df5a5fc6fea7692524739             2224 main/binary-amd64/Packages.xz
